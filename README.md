@@ -1,16 +1,24 @@
-## Hi there 👋
+![Cybersecurity Terminal Banner](download.svg)
 
-<!--
-**KingsleyT1/KingsleyT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kingsley Thirakul
+**Cybersecurity Student | Aspiring Security Analyst & Penetration Tester**
 
-Here are some ideas to get you started:
+```bash
+kingsley@security:~$ whoami
+Kingsley Thirakul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kingsley@security:~$ cat skills.txt
+> Linux | Wireshark | Network Security
+> Log Analysis | Git | GitHub
+
+kingsley@security:~$ ls projects/
+Ubuntu-Security-Lab
+
+kingsley@security:~$ echo $STATUS
+[ ACTIVE ] Learning and Building
+```
+
+### Featured Project
+[Ubuntu Security Lab](https://github.com/KingsleyT1/Ubuntu-Security-Lab)
+
+Linux security investigation and log analysis.
