@@ -19,6 +19,6 @@ kingsley@security:~$ echo $STATUS
 ```
 
 ### Featured Project
-[Ubuntu Security Lab](https://github.com/KingsleyT1/Ubuntu-Security-Lab)
+[SSH Hardening Lab](https://github.com/KingsleyT1/ssh-hardening-lab)
 
-Linux security investigation and log analysis.
+Securing Linux SSH access through key based authentication, disabling password logins, and preventing root SSH access.
